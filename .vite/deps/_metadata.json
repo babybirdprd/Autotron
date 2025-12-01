@@ -1,0 +1,88 @@
+{
+  "hash": "31883039",
+  "configHash": "ea79e460",
+  "lockfileHash": "cf3736d8",
+  "browserHash": "1ec6252c",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/.pnpm/react@19.2.0/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "9568a61e",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/.pnpm/react@19.2.0/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "4afd912e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/.pnpm/react-dom@19.2.0_react@19.2.0/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "f00f5f2d",
+      "needsInterop": true
+    },
+    "react-ace": {
+      "src": "../../node_modules/.pnpm/react-ace@14.0.1_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/react-ace/lib/index.js",
+      "file": "react-ace.js",
+      "fileHash": "020dd22a",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../node_modules/.pnpm/lucide-react@0.555.0_react@19.2.0/node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "eb2db664",
+      "needsInterop": false
+    },
+    "ace-builds/src-noconflict/mode-rust": {
+      "src": "../../node_modules/.pnpm/ace-builds@1.43.4/node_modules/ace-builds/src-noconflict/mode-rust.js",
+      "file": "ace-builds_src-noconflict_mode-rust.js",
+      "fileHash": "04258c7e",
+      "needsInterop": true
+    },
+    "ace-builds/src-noconflict/theme-twilight": {
+      "src": "../../node_modules/.pnpm/ace-builds@1.43.4/node_modules/ace-builds/src-noconflict/theme-twilight.js",
+      "file": "ace-builds_src-noconflict_theme-twilight.js",
+      "fileHash": "a8d2f49a",
+      "needsInterop": true
+    },
+    "ace-builds/src-noconflict/ext-language_tools": {
+      "src": "../../node_modules/.pnpm/ace-builds@1.43.4/node_modules/ace-builds/src-noconflict/ext-language_tools.js",
+      "file": "ace-builds_src-noconflict_ext-language_tools.js",
+      "fileHash": "53457f3a",
+      "needsInterop": true
+    },
+    "@tauri-apps/api/core": {
+      "src": "../../node_modules/.pnpm/@tauri-apps+api@2.9.1/node_modules/@tauri-apps/api/core.js",
+      "file": "@tauri-apps_api_core.js",
+      "fileHash": "815c1a51",
+      "needsInterop": false
+    },
+    "@tauri-apps/api/event": {
+      "src": "../../node_modules/.pnpm/@tauri-apps+api@2.9.1/node_modules/@tauri-apps/api/event.js",
+      "file": "@tauri-apps_api_event.js",
+      "fileHash": "9eefa19a",
+      "needsInterop": false
+    },
+    "@tauri-apps/plugin-store": {
+      "src": "../../node_modules/.pnpm/@tauri-apps+plugin-store@2.4.1/node_modules/@tauri-apps/plugin-store/dist-js/index.js",
+      "file": "@tauri-apps_plugin-store.js",
+      "fileHash": "2ad3b337",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-SGHBLALH": {
+      "file": "chunk-SGHBLALH.js"
+    },
+    "chunk-KQAMYI7N": {
+      "file": "chunk-KQAMYI7N.js"
+    },
+    "chunk-ZF7FVN6S": {
+      "file": "chunk-ZF7FVN6S.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
